@@ -1,0 +1,25 @@
+{
+  "name": "dolarbot",
+  "version": "0.0.1",
+  "description": "Dolarhook ama bot olarak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadMap/dolarbot.git"
+  },
+  "author": "SadMap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SadMap/dolarbot/issues"
+  },
+  "homepage": "https://github.com/SadMap/dolarbot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.6",
+    "quick.db": "^7.1.3"
+  }
+}
